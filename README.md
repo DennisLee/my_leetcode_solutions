@@ -1,4 +1,4 @@
-# Keep thinking, keep alive
+
 Until 2018-05-28 23:19:35, I have solved **1** / **758** problems while **133** are still locked.
 
 Completion statistic: 
