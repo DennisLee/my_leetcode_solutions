@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-29 18:56:39, I have solved **5** / **758** problems while **133** are still locked.
+Until 2018-05-29 22:29:28, I have solved **6** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 4
+4. Java: 5
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -140,7 +140,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|To Do|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/128.%20Longest%20Consecutive%20Sequence/Solution.java)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |Medium|To Do|To Do|To Do|To Do|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) |Medium|To Do|To Do|To Do|To Do|
