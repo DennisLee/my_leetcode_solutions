@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-30 23:00:12, I have solved **7** / **758** problems while **133** are still locked.
+Until 2018-05-31 00:19:33, I have solved **8** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 6
+4. Java: 7
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -290,7 +290,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/) |Easy|To Do|To Do|To Do|To Do|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |Hard|To Do|To Do|To Do|To Do|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/295.%20Find%20Median%20from%20Data%20Stream/Solution.java)|
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence/Solution.java)|
