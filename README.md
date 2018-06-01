@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-01 13:28:06, I have solved **10** / **758** problems while **133** are still locked.
+Until 2018-06-01 14:20:50, I have solved **11** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 9
+4. Java: 10
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -193,7 +193,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|To Do|To Do|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|To Do|To Do|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|To Do|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/Solution.java)|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|To Do|To Do|To Do|To Do|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|To Do|To Do|To Do|To Do|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|To Do|To Do|To Do|To Do|
