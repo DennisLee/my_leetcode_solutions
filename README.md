@@ -1,11 +1,11 @@
-
-Until 2018-05-31 00:19:33, I have solved **8** / **758** problems while **133** are still locked.
+# Keep thinking, keep alive
+Until 2018-06-01 13:19:30, I have solved **9** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 7
+4. Java: 8
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -337,7 +337,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
-|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|To Do|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/342.%20Power%20of%20Four/Solution.java)|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|To Do|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
