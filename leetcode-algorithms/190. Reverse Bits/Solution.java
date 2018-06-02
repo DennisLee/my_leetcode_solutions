@@ -10,12 +10,10 @@ public class Solution {
             }
             mask <<= 1;
             
-            //do not shift the last digit because n is an unsigned int
+            //do not shift the last digit
             if(i <= 31){
                 result <<= 1;  
-            }
-            
-            
+            }     
         }
         
         return result;
