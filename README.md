@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-02 22:06:01, I have solved **13** / **762** problems while **133** are still locked.
+Until 2018-06-04 15:11:49, I have solved **14** / **762** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 12
+4. Java: 13
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -172,7 +172,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|To Do|To Do|To Do|To Do|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.java)|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|To Do|To Do|To Do|To Do|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
