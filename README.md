@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-06 14:25:58, I have solved **20** / **762** problems while **133** are still locked.
+Until 2018-06-06 14:42:28, I have solved **21** / **762** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 19
+4. Java: 20
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -469,7 +469,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) |Easy|To Do|To Do|To Do|To Do|
 |483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/) |Hard|To Do|To Do|To Do|To Do|
 |484|[Find Permutation](https://leetcode.com/problems/find-permutation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|To Do|To Do|To Do|To Do|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/Solution.java)|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) |Medium|To Do|To Do|To Do|To Do|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game/description/) |Hard|To Do|To Do|To Do|To Do|
