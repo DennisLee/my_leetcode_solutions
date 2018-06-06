@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-06 14:42:28, I have solved **21** / **762** problems while **133** are still locked.
+Until 2018-06-06 15:25:47, I have solved **22** / **762** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 20
+4. Java: 21
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -537,7 +537,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|To Do|To Do|To Do|To Do|
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/description/) |Medium|To Do|To Do|To Do|To Do|
-|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|To Do|To Do|To Do|To Do|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/Solution.java)|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|To Do|To Do|To Do|To Do|
