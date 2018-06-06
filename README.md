@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-06 15:25:47, I have solved **22** / **762** problems while **133** are still locked.
+Until 2018-06-06 15:52:13, I have solved **23** / **762** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 21
+4. Java: 22
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -693,7 +693,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) |Medium|To Do|To Do|To Do|To Do|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) |Medium|To Do|To Do|To Do|To Do|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) |Hard|To Do|To Do|To Do|To Do|
-|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|To Do|To Do|To Do|To Do|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/Solution.java)|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|To Do|To Do|To Do|To Do|
