@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-07-01 22:36:07, I have solved **25** / **778** problems while **133** are still locked.
+Until 2018-07-02 00:12:19, I have solved **26** / **778** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 24
+4. Java: 25
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -165,7 +165,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |Medium|To Do|To Do|To Do|To Do|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|To Do|To Do|To Do|To Do|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution.java)|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|To Do|To Do|To Do|To Do|
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
