@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-06 21:22:38, I have solved **24** / **762** problems while **133** are still locked.
+Until 2018-07-01 22:36:07, I have solved **25** / **778** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 23
+4. Java: 24
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -345,7 +345,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|To Do|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |Easy|To Do|To Do|To Do|To Do|
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |Easy|To Do|To Do|To Do|To Do|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/350.%20Intersection%20of%20Two%20Arrays%20II/Solution.java)|
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |Hard|To Do|To Do|To Do|To Do|
 |353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
@@ -775,3 +775,19 @@ Note: :lock: means you need to buy a book from LeetCode
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|To Do|To Do|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
+|848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/) |Medium|To Do|To Do|To Do|To Do|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|To Do|To Do|
+|850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|To Do|To Do|To Do|To Do|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|To Do|To Do|To Do|To Do|
+|854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|To Do|To Do|To Do|To Do|
+|855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|To Do|To Do|To Do|To Do|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
+|857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) |Hard|To Do|To Do|To Do|To Do|
+|858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) |Medium|To Do|To Do|To Do|To Do|
+|859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) |Easy|To Do|To Do|To Do|To Do|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) |Easy|To Do|To Do|To Do|To Do|
+|861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
+|862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) |Hard|To Do|To Do|To Do|To Do|
+|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
