@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-07-02 00:12:19, I have solved **26** / **778** problems while **133** are still locked.
+Until 2018-07-02 14:23:24, I have solved **27** / **778** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 25
+4. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -282,7 +282,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|To Do|To Do|To Do|To Do|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/287.%20Find%20the%20Duplicate%20Number/Solution.java)|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/) |Medium|To Do|To Do|To Do|To Do|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) |Easy|To Do|To Do|To Do|To Do|
