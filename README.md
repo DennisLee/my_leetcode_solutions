@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-07-02 14:43:47, I have solved **28** / **778** problems while **133** are still locked.
+Until 2018-07-06 16:20:59, I have solved **29** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 27
+4. Java: 28
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -73,7 +73,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|To Do|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
-|061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/061.%20Rotate%20List/Solution.java)|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -791,3 +791,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) |Hard|To Do|To Do|To Do|To Do|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|864|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) |Hard|To Do|To Do|To Do|To Do|
