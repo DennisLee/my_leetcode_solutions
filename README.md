@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-07-06 16:20:59, I have solved **29** / **779** problems while **133** are still locked.
+Until 2018-07-06 22:46:20, I have solved **30** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 28
+4. Java: 29
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -188,7 +188,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|To Do|To Do|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/description/) |Medium|To Do|To Do|To Do|To Do|
-|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/DennisLee/my_leetcode_solutions/blob/master/leetcode-algorithms/186.%20Reverse%20Words%20in%20a%20String%20II/Solution.java)|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|To Do|To Do|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|To Do|To Do|To Do|
